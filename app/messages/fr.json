@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "welcome": "Bienvenue dans mon univers",
+    "title": "Je suis Liam Von Astoria",
+    "subtitle": "D\u00e9veloppeur full-stack cr\u00e9ant des solutions \u00e9l\u00e9gantes \u00e0 l'intersection du {design} et de la {technology}",
+    "exploreWork": "D\u00e9couvrir mes projets",
+    "getInTouch": "Me contacter",
+    "scrollToMap": "Aller \u00e0 la carte"
+  },
+  "map": {
+    "title": "Explorez mon univers num\u00e9rique",
+    "instructions": "Survolez les lieux \u2022 Cliquez pour d\u00e9couvrir",
+    "categories": "Cat\u00e9gories",
+    "web": "D\u00e9veloppement Web",
+    "design": "Syst\u00e8me de design",
+    "fullstack": "Full Stack",
+    "tool": "Outil de d\u00e9veloppement"
+  },
+  "projectCard": {
+    "technologies": "Technologies",
+    "viewProject": "Voir le projet",
+    "exploreMore": "En savoir plus",
+    "close": "Fermer",
+    "months": "Mois",
+    "users": "Utilisateurs",
+    "uptime": "Disponibilit\u00e9"
+  },
+  "contact": {
+    "title": "Pr\u00eat \u00e0 collaborer ?",
+    "subtitle": "Que vous cherchiez \u00e0 cr\u00e9er quelque chose d'incroyable ou simplement \u00e9changer sur la tech, je suis l\u00e0 pour \u00e7a.",
+    "sendEmail": "Envoyer un email",
+    "viewGithub": "Voir sur GitHub",
+    "copyright": "\u00a9 2024 Liam Von Astoria. Cr\u00e9\u00e9 avec soin."
+  }
+}

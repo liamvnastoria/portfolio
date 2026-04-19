@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "welcome": "Welcome to my realm",
+    "title": "I'm Liam Von Astoria",
+    "subtitle": "Full-stack developer crafting elegant solutions at the intersection of {design} and {technology}",
+    "exploreWork": "Explore My Work",
+    "getInTouch": "Get In Touch",
+    "scrollToMap": "Scroll to map"
+  },
+  "map": {
+    "title": "Explore my digital realm",
+    "instructions": "Hover over locations \u2022 Click to discover",
+    "categories": "Categories",
+    "web": "Web Development",
+    "design": "Design System",
+    "fullstack": "Full Stack",
+    "tool": "Development Tool"
+  },
+  "projectCard": {
+    "technologies": "Technologies",
+    "viewProject": "View Project",
+    "exploreMore": "Explore More",
+    "close": "Close",
+    "months": "Months",
+    "users": "Users",
+    "uptime": "Uptime"
+  },
+  "contact": {
+    "title": "Ready to collaborate?",
+    "subtitle": "Whether you're looking to build something amazing or just want to chat about tech, I'm here for it.",
+    "sendEmail": "Send an Email",
+    "viewGithub": "View on GitHub",
+    "copyright": "\u00a9 2024 Liam Von Astoria. Crafted with care."
+  }
+}
